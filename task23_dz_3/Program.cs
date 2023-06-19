@@ -9,7 +9,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 // while (i <= number)
 // {
-//     System.Console.WriteLine(Math.Pow(i , 2) + " ");
+//     System.Console.WriteLine(Math.Pow(i , 3) + " ");
 //     i++;
 // }
 
