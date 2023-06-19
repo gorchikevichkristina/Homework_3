@@ -1,0 +1,15 @@
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\bin\Debug\net7.0\task19_dz_3.exe
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\bin\Debug\net7.0\task19_dz_3.deps.json
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\bin\Debug\net7.0\task19_dz_3.runtimeconfig.json
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\bin\Debug\net7.0\task19_dz_3.dll
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\bin\Debug\net7.0\task19_dz_3.pdb
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.csproj.AssemblyReference.cache
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.AssemblyInfoInputs.cache
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.AssemblyInfo.cs
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.csproj.CoreCompileInputs.cache
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.dll
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\refint\task19_dz_3.dll
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.pdb
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\task19_dz_3.genruntimeconfig.cache
+D:\программирование\C#\sharpseminar\Homework\Homework_3\task19_dz_3\obj\Debug\net7.0\ref\task19_dz_3.dll
