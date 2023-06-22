@@ -19,15 +19,4 @@ else{
     else{
         Console.WriteLine("НЕ палиндром");
     }
-
-    // for (int i = 0; i < 5; i++)
-    // {
-    //     for (int j = 4; j >= 0; j--)
-    //     {
-    //        System.Console.WriteLine("Это палиндром");
-    //     }
-    // }
 }
-
-
-

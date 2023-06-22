@@ -4,7 +4,7 @@
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
 System.Console.WriteLine("Введите 3 коорднаты первой точки через пробел");
-int [] fp = Array.ConvertAll(Console.ReadLine()!.Split(), int.Parse); // Split по умолчанию считает за разделитель пробел или " . "
+int [] fp = Array.ConvertAll(Console.ReadLine()!.Split(), int.Parse); 
 
 System.Console.WriteLine("Введите 3 коорднаты второй точки");
 int [] sp = Array.ConvertAll(Console.ReadLine()!.Split(), int.Parse);

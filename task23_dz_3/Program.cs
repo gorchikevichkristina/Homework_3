@@ -13,7 +13,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 //     i++;
 // }
 
-for (int i = 1; i <= number; i++) // счетчик объявляем сразу, отдельно переменную не создаем
+for (int i = 1; i <= number; i++) 
 {
     System.Console.WriteLine(Math.Pow(i , 3) + " ");
 }
