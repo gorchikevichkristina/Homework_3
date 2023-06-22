@@ -9,19 +9,21 @@ int number = Convert.ToInt32(Console.ReadLine());
 int amount = number.ToString().Length;
 string str = number.ToString();
 
-if (amount < 5 | amount > 5)
-{
+if (amount < 5 | amount > 5){
     Console.WriteLine("Это не пятизначное число");
 }
-else
-{
-    for (int i = 0; i < 5; i++)
+else{
+    while (true)
     {
-        for (int j = 4; j >= 0; j--)
-        {
-           
-        }
+        
     }
+    // for (int i = 0; i < 5; i++)
+    // {
+    //     for (int j = 4; j >= 0; j--)
+    //     {
+    //        System.Console.WriteLine("Это палиндром");
+    //     }
+    // }
 }
 
 
